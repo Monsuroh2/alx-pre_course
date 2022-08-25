@@ -1,0 +1,7 @@
+git checkout -b update_script
+cd bash
+touch 98
+echo '#!/bin/bash'>alx
+echo "ALX School">>alx
+cd .
+
